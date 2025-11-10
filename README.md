@@ -58,7 +58,7 @@ The earthquake caused disproportionate damage in **Mandalay**, followed by **Sag
 
 ## 💻 How to Run
 1. Open in Google Colab:  
-   [🔗 View Notebook](https://colab.research.google.com/drive/1sRgyyRLwSeqTe65ZbdK4N53TqRG51QL)
+   [🔗 View Notebook](https://colab.research.google.com/drive/1sRgyyRLwSeqbTE65ZbdK4N53TqRG51QL?usp=sharing)
 
 2. Or clone from GitHub:
    ```bash
