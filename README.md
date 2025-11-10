@@ -24,7 +24,7 @@ On **March 28, 2025**, a powerful earthquake struck **Central Myanmar** at appro
 | Category | Tools |
 |-----------|-------|
 | Data Handling | `pandas`, `json`, `os` |
-| Visualization | `matplotlib`, `folium`, `HeatMap` |
+| Visualization | `matplotlib`|
 | Environment | `Google Colab`, `Jupyter Notebook` |
 
 ---
@@ -74,9 +74,9 @@ The earthquake caused disproportionate damage in **Mandalay**, followed by **Sag
 ---
 
 ## 👩‍💻 Author
-**[Your Name]**  
+**Hset Yiu Paing**  
 Data Analyst / Researcher  
-📫 [Your Email] | 🌐 [LinkedIn Profile]
+📫 hsetyiup@gmail.com | 🌐 
 
 ---
 
